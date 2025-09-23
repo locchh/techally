@@ -47,8 +47,8 @@ author: Documentation Team
 | Document | Description | ID | Owner |
 |----------|-------------|-----|-------|
 | [Project Charter](./01_project/project-charter.md) | Vision, objectives, scope | `PRJ-CHARTER-001` | PMO |
-| [Risk Management](./01_project/risk-management.md) | Risk analysis and mitigation | `RISK-001` | PMO |
-| [Communication Plan](./01_project/communication-plan.md) | Stakeholder communication | `COMM-001` | PMO |
+| [Risk Management](./01_project/risk-management.md) | Risk analysis and mitigation | `RISK-001` | ✅ Approved |
+| [Communication Plan](./01_project/communication-plan.md) | Stakeholder communication | `COMM-001` | ✅ Approved |
 | [Project Timeline](./01_project/timeline.md) | Milestones and deadlines | `TIME-001` | PMO |
 
 ## Requirements
@@ -84,8 +84,8 @@ author: Documentation Team
 | Document | Description | ID | Status |
 |----------|-------------|-----|--------|
 | [System Overview](./03_architecture/system-overview.md) | High-level architecture | `ARCH-001` | ✅ Approved |
-| [Frontend Architecture](./03_architecture/frontend-architecture.md) | Web and mobile frontend | `ARCH-FE-001` | 📝 Draft |
-| [Backend Architecture](./03_architecture/backend-architecture.md) | Services and APIs | `ARCH-BE-001` | 📝 Draft |
+| [Frontend Architecture](./03_architecture/frontend-architecture.md) | Web and mobile frontend | `ARCH-FE-001` | ✅ Approved |
+| [Backend Architecture](./03_architecture/backend-architecture.md) | Services and APIs | `ARCH-BE-001` | ✅ Approved |
 | [Infrastructure](./03_architecture/infrastructure.md) | Cloud and deployment | `INF-001` | 📝 Draft |
 
 ### Security Architecture
@@ -135,7 +135,7 @@ author: Documentation Team
 | Document | Description | ID | Status |
 |----------|-------------|-----|--------|
 | [Schema Overview](./05_database/schema-overview.md) | Database architecture | `DB-001` | ✅ Approved |
-| [User Schema](./05_database/user-schema.md) | User data model | `DB-USER-001` | 📝 Draft |
+| [User Schema](./05_database/user-schema.md) | User data model | `DB-USER-001` | ✅ Approved |
 | [Product Schema](./05_database/product-schema.md) | Product data model | `DB-PROD-001` | 📝 Draft |
 | [Order Schema](./05_database/order-schema.md) | Order data model | `DB-ORD-001` | 📝 Draft |
 | [Migration Guide](./05_database/migration-guide.md) | Database migrations | `DB-MIG-001` | 📝 Draft |
@@ -146,11 +146,11 @@ author: Documentation Team
 
 | Document | Description | ID | Status |
 |----------|-------------|-----|--------|
-| [Order Workflow](./06_workflows/order-workflow.md) | Order processing flow | `WF-ORDER-001` | ✅ Approved |
-| [Payment Workflow](./06_workflows/payment-workflow.md) | Payment processing | `WF-PAY-001` | ✅ Approved |
-| [Return Workflow](./06_workflows/return-workflow.md) | Returns and refunds | `WF-RET-001` | 📝 Draft |
-| [Shipping Workflow](./06_workflows/shipping-workflow.md) | Fulfillment process | `WF-SHIP-001` | 📝 Draft |
-| [Customer Support](./06_workflows/support-workflow.md) | Support processes | `WF-SUPP-001` | 📝 Draft |
+| [Order Workflow](./07_workflows/order-workflow.md) | Order processing flow | `WF-ORDER-001` | ✅ Approved |
+| [Payment Workflow](./07_workflows/payment-workflow.md) | Payment processing | `WF-PAY-001` | ✅ Approved |
+| [Return Workflow](./07_workflows/return-workflow.md) | Returns and refunds | `WF-RET-001` | 📝 Draft |
+| [Shipping Workflow](./07_workflows/shipping-workflow.md) | Fulfillment process | `WF-SHIP-001` | 📝 Draft |
+| [Customer Support](./07_workflows/support-workflow.md) | Support processes | `WF-SUPP-001` | 📝 Draft |
 
 ## Testing
 
@@ -201,10 +201,10 @@ author: Documentation Team
 
 | Document | Description | ID | Status |
 |----------|-------------|-----|--------|
-| [Team Structure](./07_team/team-structure.md) | Organization and roles | `TEAM-001` | ✅ Approved |
-| [RACI Matrix](./07_team/raci-matrix.md) | Responsibilities | `RACI-001` | 📝 Draft |
-| [Onboarding Guide](./07_team/onboarding.md) | New team members | `ONBOARD-001` | 📝 Draft |
-| [Training Resources](./07_team/training-resources.md) | Learning materials | `TRAIN-001` | 📝 Draft |
+| [Team Structure](./08_team/team-structure.md) | Organization and roles | `TEAM-001` | ✅ Approved |
+| [RACI Matrix](./08_team/raci-matrix.md) | Responsibilities | `RACI-001` | 📝 Draft |
+| [Onboarding Guide](./08_team/onboarding.md) | New team members | `ONBOARD-001` | 📝 Draft |
+| [Training Resources](./08_team/training-resources.md) | Learning materials | `TRAIN-001` | 📝 Draft |
 
 ## Diagrams
 
@@ -233,15 +233,15 @@ Most documents contain embedded Mermaid diagrams for:
 | Category | Total Docs | Completed | In Progress | Planned |
 |----------|------------|-----------|-------------|---------|
 | Requirements | 9 | 3 | 0 | 6 |
-| Architecture | 10 | 2 | 0 | 8 |
+| Architecture | 10 | 4 | 0 | 6 |
 | APIs | 18 | 5 | 0 | 13 |
-| Database | 5 | 1 | 0 | 4 |
+| Database | 5 | 2 | 0 | 3 |
 | Workflows | 6 | 2 | 0 | 4 |
 | Testing | 7 | 3 | 0 | 4 |
 | Security | 6 | 1 | 0 | 5 |
-| DevOps | 9 | 1 | 0 | 8 |
+| DevOps | 9 | 2 | 0 | 7 |
 | Team | 4 | 1 | 0 | 3 |
-| **Total** | **74** | **19** | **0** | **55** |
+| **Total** | **74** | **23** | **0** | **51** |
 
 ### Document Standards
 
