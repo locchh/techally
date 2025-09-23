@@ -374,7 +374,7 @@ graph LR
 - [Functional Requirements](./functional-requirements.md) - `REQ-FR-001`
 - [Non-Functional Requirements](./non-functional-requirements.md) - `REQ-NFR-001`
 - [System Architecture](../architecture/system-overview.md) - `ARCH-001`
-- [Test Plan](../testing/test-plan.md) - `TEST-001`
+- [Test Plan](../06_testing/test-plan.md) - `TEST-001`
 
 ---
 *This document requires approval from the Executive Committee for any changes to strategic objectives or success criteria.*

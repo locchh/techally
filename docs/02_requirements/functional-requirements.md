@@ -477,12 +477,12 @@ graph TD
 
 | Functional Area | Test Cases | Coverage | Test Plan |
 |-----------------|------------|----------|-----------|
-| User Management | 45 | 95% | [`TEST-USER-001`](../testing/user-test-plan.md) |
-| Product Catalog | 62 | 92% | [`TEST-PROD-001`](../testing/product-test-plan.md) |
-| Shopping Cart | 38 | 90% | [`TEST-CART-001`](../testing/cart-test-plan.md) |
-| Checkout | 51 | 93% | [`TEST-CHECK-001`](../testing/checkout-test-plan.md) |
-| Payment | 47 | 95% | [`TEST-PAY-001`](../testing/payment-test-plan.md) |
-| Orders | 56 | 91% | [`TEST-ORD-001`](../testing/order-test-plan.md) |
+| User Management | 45 | 95% | [`TEST-USER-001`](../06_testing/user-test-plan.md) |
+| Product Catalog | 62 | 92% | [`TEST-PROD-001`](../06_testing/product-test-plan.md) |
+| Shopping Cart | 38 | 90% | [`TEST-CART-001`](../06_testing/cart-test-plan.md) |
+| Checkout | 51 | 93% | [`TEST-CHECK-001`](../06_testing/checkout-test-plan.md) |
+| Payment | 47 | 95% | [`TEST-PAY-001`](../06_testing/payment-test-plan.md) |
+| Orders | 56 | 91% | [`TEST-ORD-001`](../06_testing/order-test-plan.md) |
 
 ## 19. Acceptance Criteria
 
@@ -512,7 +512,7 @@ Each functional requirement must meet:
 - [Non-Functional Requirements](./non-functional-requirements.md) - `REQ-NFR-001`
 - [System Architecture](../architecture/system-overview.md) - `ARCH-001`
 - [API Documentation](../api/api-reference.md) - `API-001`
-- [Test Plans](../testing/master-test-plan.md) - `TEST-001`
+- [Test Plans](../06_testing/master-test-plan.md) - `TEST-001`
 
 ---
 *This document requires approval from Product Manager and Technical Lead for any changes.*

@@ -149,9 +149,9 @@ graph TD
 | Role | Name | Focus | Tools | Test Plans |
 |------|------|-------|-------|------------|
 | QA Lead | Priya Sharma | Test Strategy | Selenium, Jest | [`TEST-001`](../testing/test-strategy.md) |
-| QA Engineer | John Thompson | Automation | Cypress, Playwright | [`AUTO-001`](../testing/automation-plan.md) |
-| QA Engineer | Nina Patel | Manual Testing | JIRA, TestRail | [`MAN-001`](../testing/manual-test-plan.md) |
-| QA Engineer | Omar Hassan | Performance | JMeter, K6 | [`PERF-TEST-001`](../testing/performance-tests.md) |
+| QA Engineer | John Thompson | Automation | Cypress, Playwright | [`AUTO-001`](../06_testing/automation-plan.md) |
+| QA Engineer | Nina Patel | Manual Testing | JIRA, TestRail | [`MAN-001`](../06_testing/manual-test-plan.md) |
+| QA Engineer | Omar Hassan | Performance | JMeter, K6 | [`PERF-TEST-001`](../06_testing/performance-tests.md) |
 
 ## 3. Responsibilities Matrix (RACI)
 

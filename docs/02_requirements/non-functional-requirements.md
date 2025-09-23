@@ -248,7 +248,7 @@ Each non-functional requirement must be:
 - [Business Requirements](./business-requirements.md) - `REQ-BR-001`
 - [Functional Requirements](./functional-requirements.md) - `REQ-FR-001`
 - [System Architecture](../architecture/system-overview.md) - `ARCH-001`
-- [Test Plan](../testing/test-plan.md) - `TEST-001`
+- [Test Plan](../06_testing/test-plan.md) - `TEST-001`
 - [Security Architecture](../architecture/security.md) - `SEC-001`
 
 ---
